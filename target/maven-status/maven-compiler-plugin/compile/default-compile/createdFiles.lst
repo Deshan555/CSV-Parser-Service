@@ -1,0 +1,6 @@
+com\eimsky\parse\v01\tests\Excel.class
+com\eimsky\parse\v01\tests\CSV.class
+com\eimsky\parse\v01\package-info.class
+com\eimsky\parse\v01\config\CorsConfig.class
+com\eimsky\parse\v01\Application.class
+com\eimsky\parse\v01\config\CorsConfig$1.class
